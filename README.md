@@ -1,2 +1,0 @@
-# mamo
-Alo
